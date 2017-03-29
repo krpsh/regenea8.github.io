@@ -35,6 +35,14 @@
               {% endfor %}
             </ul>
           </li>
+		{% elsif menu.link %}
+          <li class="header-item {{class}}"><a href="{{site.url}}{{menu.url}}"><h3>{{ menu.title }}</h3></a>
+            <ul class="header-submenu">
+              {% for sub in menu.link %}
+                <li class="sub-item"><a href="{{sub.url}}">{{sub.title}}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
         {% else %}
             {% if menu.url contains 'http://' or menu.url contains 'https://' %}
                 <li class="header-item {{class}}"><a href="{{menu.url}}" target="_blank"><h3>{{ menu.title }}</h3></a></li>

@@ -34,7 +34,7 @@ menu:
         url: '/intro/sample-post/'
   - title: 'Link'
     url: '#'
-    submenu:
+    link:
       - title: 'OKKY'
         url: 'http://okky.kr/'
 

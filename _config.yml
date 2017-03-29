@@ -46,7 +46,7 @@ owner:
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
   email:          regenea8@naver.com
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
+  # twitter: regenea8 # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
   github: aron-bordin
 

@@ -1,5 +1,5 @@
-title:            Blog Title
-description:      Describe your website here.
+title:		  Regenea8 Blog
+description:      웹 사이트를 설명하시오.
 
 # put your disqus here
 disqus_shortname:
@@ -28,6 +28,10 @@ menu:
   - title: 'Favorites'
     url: '#'
     submenu:
+      - title: 'OKKY'
+        url: 'http://okky.kr/'
+      - title: 'regenea8 GitHub'
+        url: 'https://github.com/regenea8?tab=repositories'
       - title: 'Code Highlighter'
         url: '/intro/code-highlighting-post/'
       - title: 'Sample Post'
@@ -35,11 +39,11 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Your name
+  name:           Lee Jun-hwan
   site:           https://regenea8.github.io
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "하고싶은말"
+  email:          regenea8@naver.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
@@ -54,9 +58,9 @@ social:
   - title: "github"
     url: "https://regenea8.github.io"
   - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
+    url: "https://naver.com"
   - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: "https://www.youtube.com/"
 
 # Background image to be tiled on all pages
 background:
@@ -68,8 +72,8 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-locale:      en_US
+timezone:    Korea/Seoul
+locale:      euc_kr
 future:      true
 highlighter: rouge
 markdown:    kramdown
@@ -97,6 +101,6 @@ page_layout: page
 titlecase: true
 
 include: [".htaccess"]
-exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 gems: [jekyll-paginate]
 theme: neo-hpstr-jekyll-theme

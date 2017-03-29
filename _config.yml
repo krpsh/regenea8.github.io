@@ -45,9 +45,10 @@ owner:
   bio:            "하고싶은말"
   email:          regenea8@naver.com
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
+  # if no twitter in this config, the twitter follow button will be removed
+  # twitter: aron_bordin // 트위터 버튼 우측 하단
   # GitHub nick for use in follow button in author block.
-  github: aron-bordin
+  github: regenea8
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.

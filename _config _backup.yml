@@ -1,5 +1,5 @@
-title:		Regenea8 Blog
-description:	Programmer Lee Jun-hwan Blog
+title:            Blog Title
+description:      Describe your website here.
 
 # put your disqus here
 disqus_shortname:
@@ -28,10 +28,6 @@ menu:
   - title: 'Favorites'
     url: '#'
     submenu:
-      - title: 'OKKY'
-        url: 'http://okky.kr/'
-      - title: 'regenea8 GitHub'
-        url: 'https://github.com/regenea8?tab=repositories'
       - title: 'Code Highlighter'
         url: '/intro/code-highlighting-post/'
       - title: 'Sample Post'
@@ -39,7 +35,7 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Lee Jun-hwan
+  name:           Your name
   site:           https://regenea8.github.io
   avatar:         images/avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."

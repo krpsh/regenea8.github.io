@@ -42,7 +42,7 @@ owner:
   name:           Lee Jun-hwan
   site:           https://regenea8.github.io
   avatar:         images/avatar.jpg
-  bio:            "하고싶은말"
+  bio:            "test"
   email:          regenea8@naver.com
   # Twitter nick for use in Twitter cards and follow button.
   # if no twitter in this config, the twitter follow button will be removed

@@ -28,10 +28,6 @@ menu:
   - title: 'Favorites'
     url: '#'
     submenu:
-      - title: 'OKKY'
-        url: 'http://okky.kr/'
-      - title: 'regenea8 GitHub'
-        url: 'https://github.com/regenea8?tab=repositories'
       - title: 'Code Highlighter'
         url: '/intro/code-highlighting-post/'
       - title: 'Sample Post'
@@ -39,16 +35,15 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Lee Jun-hwan
+  name:           Your name
   site:           https://regenea8.github.io
   avatar:         images/avatar.jpg
-  bio:            "test"
-  email:          regenea8@naver.com
+  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  email:          you@email.com
   # Twitter nick for use in Twitter cards and follow button.
-  # if no twitter in this config, the twitter follow button will be removed
-  # twitter: aron_bordin // 트위터 버튼 우측 하단
+  twitter: aron_bordin # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: regenea8
+  github: aron-bordin
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -57,11 +52,11 @@ twitter:
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
   - title: "github"
-    url: "https://regenea8.github.io"
+    url: "https://github.com/aron-bordin"
   - title: "linkedin"
-    url: "https://naver.com"
+    url: "https://br.linkedin.com/in/aronbordin"
   - title: "youtube"
-    url: "https://www.youtube.com/"
+    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
 
 # Background image to be tiled on all pages
 background:
@@ -73,8 +68,8 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Korea/Seoul
-locale:      ko_kr
+timezone:    America/New_York
+locale:      en_US
 future:      true
 highlighter: rouge
 markdown:    kramdown
@@ -88,9 +83,8 @@ permalink:   /:categories/:title/
 # Amount of post to show on home page
 paginate: 5
 
-# if true, shows the floatting share buttons 
-# 좌측 SNS bar
-float_share: false
+# if true, shows the floatting share buttons
+float_share: true
 
 # Octopress
 # Default extensions
@@ -103,6 +97,6 @@ page_layout: page
 titlecase: true
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 gems: [jekyll-paginate]
 theme: neo-hpstr-jekyll-theme

@@ -64,6 +64,7 @@ social:
     url: "https://www.youtube.com/"
 
 # Background image to be tiled on all pages
+# 모든 페이지에 배경으로 넣을 이미지
 background:
 
 # Analytics and webmaster tools stuff goes here

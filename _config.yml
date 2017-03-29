@@ -1,5 +1,5 @@
-#title:		"Regenea8 Blog"
-#description:	"Programmer Lee Jun-hwan Blog"
+title:            "Regenea8 Blog"
+description:      "test"
 
 # put your disqus here
 disqus_shortname:
@@ -42,7 +42,7 @@ owner:
   name:           Lee Jun-hwan
   site:           https://regenea8.github.io
   avatar:         images/avatar.jpg
-  bio:            "하고싶은말"
+  bio:            "test"
   email:          regenea8@naver.com
   # Twitter nick for use in Twitter cards and follow button.
   # if no twitter in this config, the twitter follow button will be removed
@@ -64,7 +64,6 @@ social:
     url: "https://www.youtube.com/"
 
 # Background image to be tiled on all pages
-# 모든 페이지에 배경으로 넣을 이미지
 background:
 
 # Analytics and webmaster tools stuff goes here

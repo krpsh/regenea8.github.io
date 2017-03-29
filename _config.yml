@@ -48,7 +48,7 @@ owner:
   # Twitter nick for use in Twitter cards and follow button.
   # twitter: regenea8 # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: aron-bordin
+  github: regenea8
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -73,7 +73,7 @@ google_verify:
 bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Seoul
 locale:      en_US
 future:      true
 highlighter: rouge

@@ -74,7 +74,8 @@ bing_verify:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Seoul
-locale:      ko_KR.UTF-8
+locale:      ko_KR
+encoding:    UTF-8
 future:      true
 highlighter: rouge
 markdown:    kramdown

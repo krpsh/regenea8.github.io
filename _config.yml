@@ -75,13 +75,13 @@ bing_verify:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Seoul
 locale:      ko_KR
-encoding:    UTF-8
 future:      true
 highlighter: rouge
 markdown:    kramdown
 sass:
   sass_dir: _sass
   style: compressed
+encoding: UTF-8
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/

@@ -34,7 +34,7 @@ menu:
         url: '/intro/sample-post/'
   - title: 'Link'
     url: '#'
-    submenu:
+    link:
       - title: 'OKKY'
         url: 'http://okky.kr/'
 
@@ -90,7 +90,7 @@ permalink:   /:categories/:title/
 paginate: 5
 
 # if true, shows the floatting share buttons
-float_share: true
+#float_share: true
 
 # Octopress
 # Default extensions

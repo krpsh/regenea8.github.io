@@ -39,7 +39,7 @@
           <li class="header-item {{class}}"><a href="{{site.url}}{{menu.url}}"><h3>{{ menu.title }}</h3></a>
             <ul class="header-submenu">
               {% for sub in menu.link %}
-                <li class="sub-item"><a href="{{sub.url}}">{{sub.title}}</a></li>
+                <li class="sub-item"><a href="{{sub.url}}" target="_blank">{{sub.title}}</a></li>
               {% endfor %}
             </ul>
           </li>

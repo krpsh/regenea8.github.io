@@ -81,7 +81,7 @@ markdown:    kramdown
 sass:
   sass_dir: _sass
   style: compressed
-encoding: UTF-8
+encoding: "UTF-8"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/

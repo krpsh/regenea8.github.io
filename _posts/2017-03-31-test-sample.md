@@ -89,13 +89,14 @@ Non Pygments code example
         <p>This is great isn't it?</p>
     </div>
 
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
 {% highlight html %}
 <a href="#" class="btn btn-success">Success Button</a>
 {% endhighlight %}
+
+
+## Buttons
+
+Make any link standout more when applying the `.btn` class.
 
 <div markdown="0"><a href="#" class="btn">Primary Button</a></div>
 <div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>

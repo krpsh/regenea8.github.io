@@ -84,6 +84,7 @@ sass:
   sass_dir: _sass
   style: compressed
 encoding: "UTF-8"
+comments: true
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/

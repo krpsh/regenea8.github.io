@@ -38,6 +38,7 @@ menu:
       - title: 'OKKY'
         url: 'http://okky.kr/'
   - title: 'About'
+    url: '/about'
 
 # Owner/author information
 owner:

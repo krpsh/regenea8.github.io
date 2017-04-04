@@ -16,6 +16,18 @@ Java Web Application 를 제작하기 위해서는 JSP 파일을 생성해야 �
 JSP Template 을 수정하면 이러한 번거로움을 줄일 수 있습니다.
 
 `Window - Preferences`로 접근합니다.
+<figure>
+	<a href="https://regenea8.github.io/resources/images/jsp-template/1.png"><img src="https://regenea8.github.io/resources/images/jsp-template/1.png" alt=""></a>
+</figure>
+
+
+
+
+
+
+
+
+
 ![preview](https://regenea8.github.io/resources/images/jsp-template/1.png)
 
 

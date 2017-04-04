@@ -5,6 +5,7 @@ share: true
 ---
 
 ![Preview](https://www.gravatar.com/avatar/ef7079a20d829791f5490e15744e6d48?d=identicon&s=150)
+
 고등학생 때 Visual Basic 6.0을 배우면서 흥미를 느껴 프로그래머의 꿈을 갖기 시작하였습니다. 앞으로 회사에서 습득하는 스킬과 독학을 통해 얻는 지식을 바탕으로 Free License Application 을 제작하여 배포하는 것이 목표입니다.
 
 # Career

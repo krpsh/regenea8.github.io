@@ -9,21 +9,16 @@ comments: false
 {% assign links_list = site_links | split:',' | sort %}
 
 <ul class="entry-meta inline-list">
-  {% for item in (0..site.links.size) %}{% unless forloop.last %}
-    {% capture this_word %}{{ links_list[item] | strip_newlines }}{% endcapture %}
-  	<li><a href="#{{ this_word }}" class="link"><span class="term">{{ this_word }}</span> <span class="count">{{ site.links[this_word].size }}</span></a></li>
-  {% endunless %}{% endfor %}
+ 	<li><a href="https://okky.kr/" class="link"><span class="term">{{ this_word }}</span> <span class="count">1</span></a></li>
 </ul>
 
-{% for item in (0..site.links.size) %}{% unless forloop.last %}
-  {% capture this_word %}{{ links_list[item] | strip_newlines }}{% endcapture %}
   <span class="anchor-bookmark" id="{{ this_word }}"></span>
 	<article>
-	<h2 class="link-heading">{{ this_word }}</h2>
+	<h2 class="link-heading">???</h2>
 		<ul>
-    {% for post in site.links[this_word] %}{% if post.title != null %}
-      <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    {% endif %}{% endfor %}
+
+      <li class="entry-title"><a href="https://okky.kr/" title="OKKY">OKKY</a></li>
+
 		</ul>
 	</article><!-- /.hentry -->
-{% endunless %}{% endfor %}
+

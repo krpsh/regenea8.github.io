@@ -25,5 +25,6 @@ share: true
 
 ## Preview
 
-* ![Preview](https://regenea8.github.io/images/mc.png)
-* ![Preview](https://regenea8.github.io/images/cg.png)
+* Visual Basic
+![Preview](https://regenea8.github.io/images/mc.png)
+![Preview](https://regenea8.github.io/images/cg.png)

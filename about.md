@@ -8,10 +8,10 @@ share: true
 
 # Career
 
-* 2016.09 ~         Bluechip C&S (Java Web Application Programmer)
-* 2013.03 ~ 2015.03 IGS (Quality Assurance)
-* 2012.10 ~ 2013.01 Blizzard Korea (Game Master)
-* 2006.03 ~ 2012.02 Dong Yang Mirae University
+* 2016.09 ~ 0000.00 - Bluechip C&S / Java Web Application Programmer
+* 2013.03 ~ 2015.03 - IGS / Quality Assurance
+* 2012.10 ~ 2013.01 - Blizzard Korea / Game Master
+* 2006.03 ~ 2012.02 - Dong Yang Mirae University
 
 # Forum
 

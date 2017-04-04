@@ -12,7 +12,9 @@ image:
 ---
 
 Java Web Application 를 제작하기 위해서는 JSP 파일을 생성해야 하는데요.
+
 생성할 때 마다 기본 틀을 수정하려면 매우 번거롭습니다.
+
 JSP Template 을 수정하면 이러한 번거로움을 줄일 수 있습니다.
 
 `Window - Preferences`로 접근합니다.

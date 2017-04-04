@@ -1,4 +1,4 @@
-title:		Regenea8 Blog
+title:		Lee Jun-hwan Blog
 description:	Programmer Lee Jun-hwan Blog
 
 # put your disqus here
@@ -25,18 +25,20 @@ menu:
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+#  - title: 'Favorites'
+#    url: '#'
+#    submenu:
+#      - title: 'Code Highlighter'
+#        url: '/intro/code-highlighting-post/'
+#      - title: 'Sample Post'
+#        url: '/intro/sample-post/'
   - title: 'Link'
-    url: '#'
+    url: '/link'
     link:
       - title: 'OKKY'
         url: 'http://okky.kr/'
+  - title: 'About'
+    url: '/about'
 
 # Owner/author information
 owner:

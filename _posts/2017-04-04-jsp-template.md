@@ -4,7 +4,7 @@ title: JSP Template
 description: "JSP 템플릿"
 modified: 2017-04-04
 tags: [HTML, JSP, Template]
-categories: [JSP]
+categories: [JSP, Template]
 image:
     feature: feature.jpg
     credit: dargadgetz

@@ -20,24 +20,16 @@ JSP Template 을 수정하면 이러한 번거로움을 줄일 수 있습니다.
 	<a href="https://regenea8.github.io/resources/images/jsp-template/1.png"><img src="https://regenea8.github.io/resources/images/jsp-template/1.png" alt=""></a>
 </figure>
 
-
-
-
-
-
-
-
-
-![preview](https://regenea8.github.io/resources/images/jsp-template/1.png)
-
-
 좌측 상단에 `jsp`를 검색하고 `Web - JSP Files - Editor - Templates`를 클릭합니다.
 `New JSP File (html)`을 클릭하고 `Edit`를 클릭합니다.
-![preview](https://regenea8.github.io/resources/images/jsp-template/2.png)
-
+<figure>
+	<a href="https://regenea8.github.io/resources/images/jsp-template/2.png"><img src="https://regenea8.github.io/resources/images/jsp-template/2.png" alt=""></a>
+</figure>
 
 해당 위치에 아래의 소스를 복사 붙여넣기 합니다.
-![preview](https://regenea8.github.io/resources/images/jsp-template/3.png)
+<figure>
+	<a href="https://regenea8.github.io/resources/images/jsp-template/3.png"><img src="https://regenea8.github.io/resources/images/jsp-template/3.png" alt=""></a>
+</figure>
 
 
 ### JSP Template
@@ -66,8 +58,12 @@ JSP Template 을 수정하면 이러한 번거로움을 줄일 수 있습니다.
 
 
 `OK`를 클릭하고 빠져나옵니다.
-![preview](https://regenea8.github.io/resources/images/jsp-template/4.png)
+<figure>
+	<a href="https://regenea8.github.io/resources/images/jsp-template/4.png"><img src="https://regenea8.github.io/resources/images/jsp-template/4.png" alt=""></a>
+</figure>
 
 
 JSP 파일을 새로 생성하면 저장한 Template로 생성되는 것을 확인할 수 있습니다.
-![preview](https://regenea8.github.io/resources/images/jsp-template/5.png)
+<figure>
+	<a href="https://regenea8.github.io/resources/images/jsp-template/5.png"><img src="https://regenea8.github.io/resources/images/jsp-template/5.png" alt=""></a>
+</figure>

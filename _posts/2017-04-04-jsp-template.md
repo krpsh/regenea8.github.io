@@ -30,7 +30,7 @@ JSP Template 을 수정하면 이러한 번거로움을 줄일 수 있습니다.
 
 ### JSP Template
 
-```HTML
+{% highlight html %}
 <%@ page contentType="text/html; charset=UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
@@ -48,10 +48,10 @@ JSP Template 을 수정하면 이러한 번거로움을 줄일 수 있습니다.
 <body>
 
 
-
 </body>
 </html>
-```
+{% endhighlight %}
+
 `OK`를 클릭하고 빠져나옵니다.
 ![preview](https://regenea8.github.io/resources/images/jsp-template/4.png)
 

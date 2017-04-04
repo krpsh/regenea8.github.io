@@ -33,7 +33,7 @@ menu:
 #      - title: 'Sample Post'
 #        url: '/intro/sample-post/'
   - title: 'Link'
-    url: '#'
+    url: '/'
     link:
       - title: 'OKKY'
         url: 'http://okky.kr/'
